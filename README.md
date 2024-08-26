@@ -5,4 +5,4 @@ Online Sales Dashboard with Macro Recording This Excel project provides an inter
 
 This project showcases an advanced Excel-based Sales Dashboard designed to analyze and visualize online sales data across various dimensions. With integrated macro-driven automation, the dashboard empowers users to gain insights into time-specific sales trends, product performance, and customer behaviors, all within an interactive Excel interface.
 
-📊 ## Project Overview
+## 📊 Project Overview
